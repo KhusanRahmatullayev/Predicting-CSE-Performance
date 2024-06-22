@@ -47,9 +47,8 @@ You can install the required libraries using pip:
 ```
 #### 2. Ensure the dataset is in the repository:
 
-```sh
 The dataset CSE_student_performances.csv should already be included in the repository. Confirm that it is present in the root directory of the project.
-```
+
 #### 3. Run the model training script:
 ```sh
 python psychosocial_dimensions_of_student_life.py
