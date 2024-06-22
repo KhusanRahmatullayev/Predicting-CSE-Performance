@@ -25,8 +25,8 @@ The machine learning model used is designed to classify the academic performance
 - Normalizing numerical features.
 #### 2. Model Training:
 - Splitting the dataset into training and testing sets.
-- Training a classification model (e.g., Decision Tree, Random Forest, etc.).
-- Evaluating the model's performance using appropriate metrics (accuracy, precision, recall, etc.).
+- Training a classification model (Decision Tree, Random Forest).
+- Evaluating the model's performance using appropriate metrics (accuracy, precision).
 
 ## Getting Started
 #### Prerequisites
