@@ -26,8 +26,9 @@ for dirname, _, filenames in os.walk('/kaggle/input'):
 
 # You can write up to 20GB to the current directory (/kaggle/working/) that gets preserved as output when you create a version using "Save & Run All"
 # You can also write temporary files to /kaggle/temp/, but they won't be saved outside of the current session
+file_path = 'CSE_student_performances.csv'
 
-dataset = pd.read_csv('/content/CSE_student_performances.csv')
+dataset = pd.read_csv(file_path)
 
 """# Preprocessing the dataset: handling null values, ensuring consistent shapes, and verifying data types."""
 
